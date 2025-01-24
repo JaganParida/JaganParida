@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://twitter.com/jaganparida0504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaganparida0504" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jagan-parida-7439002a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagan-parida-7439002a0" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1ed869n3z6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1ed869n3z6/" height="30" width="40" /></a>
 <a href="https://instagram.com/imurjagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imurjagan" height="30" width="40" /></a>
 </p>
 
