@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaganparida" alt="jaganparida" /></a> </p>
 
-- 🔭 I’m currently working on [FullStack Project](https://wanderlust-project-mcgi.onrender.com)
+- 🔭 I’m currently working on [intern at CODSOFT](https://shakykolkata9-dot-skilful-tiger-442213-s8.uc.r.appspot.com/?c=1h9xoGd-nWRjfWLroqRm-yWfelAbhfnNh28VuwcTqWdE&q=1835131561&r=1956bc4b371ccf53&z=1741269808017&o=https%3A%2F%2Fshakykolkata9-dot-valid-gizmo-404515.uc.r.appspot.com%2F%3Fc%3D1GW778j8dkj7LgphA5bzm8MRMuxTgmahnqnms0wgCa9k%26q%3D905792952%26r%3D18cd58d4636ce66b%26z%3D1704389855283%26o%3Dhttps%253A%252F%252Fwww.linkedin.com%252Fcompany%252Fcodsoft%252F)
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
