@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **jaganparida39064@gmail.com**
 
-- 📄 Know about my experiences [https://linktr.ee/JaganParida?utm_source=linktree_admin_share](https://linktr.ee/JaganParida?utm_source=linktree_admin_share)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
