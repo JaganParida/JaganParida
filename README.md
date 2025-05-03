@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaganparida" alt="jaganparida" /></a> </p>
 
-- 🔭 I’m currently a CSE Student
+- 🔭 I’m a CSE Student
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
