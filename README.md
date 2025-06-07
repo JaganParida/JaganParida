@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="main.gif" alt="Banner" width="100%" style="max-width: 800px; height: 50vh;"/>
+  <img src="main.gif" alt="Banner" width="100%" style="max-width: 800px; height: auto;"/>
 </p>
 
 <!-- GitHub Profile Stats -->
