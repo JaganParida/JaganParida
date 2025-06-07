@@ -21,10 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaganparida&layout=compact&langs_count=6&theme=dracula&hide_border=false" width="48%" alt="Top Languages" />
 </div>
 
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaganparida&theme=dracula" alt="GitHub Streak" />
-</div>
 
 <!-- Tech Stack & Contact -->
 <table align="center" width="100%" style="max-width: 1000px; margin: auto;">
