@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=600&lines=Fullstack+Developer+in+the+making...;Lifelong+Learner+%26+Coder!;Welcome+to+my+GitHub+profile!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="main.gif" alt="Banner" width="100%" style="max-width: 800px; height: auto;"/>
+</p>
+
 <!-- GitHub Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaganparida&label=Profile%20views&color=0e75b6&style=flat" alt="jaganparida" />
