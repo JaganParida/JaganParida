@@ -74,7 +74,3 @@
   <li>📬 Reach me at: <strong>jaganparida39064@gmail.com</strong></li>
 </ul>
 
-<!-- SVG Wave Footer -->
-<p align="center">
-  <img src="/wave (1).svg" alt="Wave Animation" width="100%" style="max-width: 800px; height: auto;" />
-</p>
