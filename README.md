@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jagan Parida</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💻 Problem Solver | 🌟 Technology Enthusiast | 🎨 Crafting Seamless User Experiences | 💡 Skilled in MERN Stack | 📚 Lifelong Learner | 🔍 Exploring Innovative Solutions</h3>
 
 <!-- Typing Animation -->
 <p align="center">
