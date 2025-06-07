@@ -29,9 +29,6 @@
 <table align="center" width="100%" style="max-width: 1000px; margin: auto;">
   <tr>
     <!-- Left Side: GIF -->
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ24xZjZ0ZGYwczNtd3N3a3d4NnE1cW50enFid2VoaDBpcmM5YWd6NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" style="max-width: 300px; height: auto;" alt="Coding GIF" />
-    </td>
     <!-- Right Side: Tech Stack & Socials -->
     <td width="60%" align="center">
       <h2>💻 Tech Stack</h2>
