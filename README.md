@@ -7,7 +7,7 @@
 
 <!---- profile img --->
 <p align="center">
-  <img src="rocket.webp" alt="Banner" width="100%" style="max-width: 800px; height: auto;"/>
+  <img src="rear-view-programmer-working-all-night-long.jpg" alt="Banner" width="100%" style="max-width: 800px; height: auto;"/>
 </p>
 
 
