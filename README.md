@@ -53,11 +53,6 @@
 - 🛠️ Built several Full Stack Projects with MERN  
 - 💡 Regular LeetCode and GFG contributor  
 
-## 🚀 Featured Projects
-- 📘 [School Management System](https://github.com/jaganparida/School-Management-System) – Java-based CRUD project  
-- 🎧 [Spotify Clone](https://github.com/jaganparida/music-player) – JavaScript-based frontend using Saavn API  
-- 🏨 [Wanderlodge Website](https://github.com/jaganparida/wanderlodge) – Airbnb-inspired hotel booking platform built with modern web technologies  
-
 ## 📊 GitHub Stats
 
 <p align="center">
