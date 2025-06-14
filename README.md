@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFnM25ycnMwNXR1Y3hxam43anZka3FjZTl4bm5kajk4ZGoyMW5xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaganparida&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -26,7 +30,6 @@
   </a>
 </p>
 
-
 ## 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -51,7 +54,6 @@
 - 💡 Regular LeetCode and GFG contributor  
 
 ## 🚀 Featured Projects
-## 🚀 Featured Projects
 - 📘 [School Management System](https://github.com/jaganparida/School-Management-System) – Java-based CRUD project  
 - 🎧 [Spotify Clone](https://github.com/jaganparida/music-player) – JavaScript-based frontend using Saavn API  
 - 🏨 [Wanderlodge Website](https://github.com/jaganparida/wanderlodge) – Airbnb-inspired hotel booking platform built with modern web technologies  
@@ -62,7 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jaganparida&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
   <img src="https://streak-stats.demolab.com?user=jaganparida&theme=tokyonight&hide_border=true" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaganparida&theme=tokyonight&hide_border=false&layout=compact" />
