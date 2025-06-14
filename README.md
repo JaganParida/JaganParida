@@ -16,7 +16,7 @@
 <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
-  <a href="https://instagram.com/imurjagan" target="_blank">
+  <a href="https://instagram.com/jaganparidaa" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jagan-parida-7439002a0" target="_blank">
