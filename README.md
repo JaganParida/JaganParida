@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFnM25ycnMwNXR1Y3hxam43anZka3FjZTl4bm5kajk4ZGoyMW5xeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50%" />
+  <img src="gigIMG.gif" width="50%" />
 </p>
 
 ## 🏆 GitHub Trophies
