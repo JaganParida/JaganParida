@@ -50,11 +50,6 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-## 🏅 Achievements
-- 🥇 Completed Google Cloud Arcade Journey  
-- 🛠️ Built several Full Stack Projects with MERN  
-- 💡 Regular LeetCode and GFG contributor  
-
 ## 📊 GitHub Stats
 
 <p align="center">
