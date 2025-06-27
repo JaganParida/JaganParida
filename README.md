@@ -52,14 +52,17 @@
 
 ## 📊 GitHub Stats
 
+<h2 align="center">📊 GitHub Stats:</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaganparida&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://streak-stats.demolab.com?user=jaganparida&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaganParida&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JaganParida&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaganparida&theme=tokyonight&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaganParida&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
 </p>
+
 
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
