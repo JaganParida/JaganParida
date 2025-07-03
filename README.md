@@ -6,8 +6,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=jaganparida&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💫 About Me
-- 🔭 I’m currently working on a Full Stack Project  
-- 🌱 I’m learning MERN Stack Development  
 - 👨‍💻 All my projects are available on [My Portfolio](https://jaganparida.github.io/Portfolio/)  
 - 💬 Ask me anything tech-related  
 - 📫 Reach me at: jaganparida39064@gmail.com  
