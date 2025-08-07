@@ -3,7 +3,11 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaganparida&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jaganparida&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+
 
 ## 💫 About Me
 - 👨‍💻 All my projects are available on [My Portfolio](https://jaganparida.github.io/Portfolio/)  
@@ -22,12 +26,6 @@
   </a>
   <a href="https://x.com/jaganparida0504" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-  <a href="mailto:jaganparida39064@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linktr.ee/JaganParida?utm_source=linktree_admin_share" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
 
@@ -52,25 +50,21 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-## 📊 GitHub Stats
-
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaganParida&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
+<!-- GitHub Stats + Streak -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JaganParida&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=JaganParida&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
+</div>
 
-<p align="center">
+##
+<!-- Top Languages + Dev Quote -->
+<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; margin-bottom: 30px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaganParida&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</div>
 
 
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=jaganparida&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
