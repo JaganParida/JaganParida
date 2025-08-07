@@ -52,19 +52,19 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<!-- GitHub Stats + Streak -->
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaganParida&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JaganParida&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</div>
+<!-- 📊 GitHub Stats + Streak -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaganParida&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=JaganParida&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
 
 ##
-<!-- Top Languages + Dev Quote -->
-<div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap; margin-bottom: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaganParida&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</div>
+<!-- 📚 Top Languages + Dev Quote -->
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaganParida&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</p>
+
 
 
