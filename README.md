@@ -44,12 +44,10 @@
   <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=JaganParida&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 </p>
 
-##
 
 <!-- 📚 Top Languages + Dev Quote -->
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaganParida&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
-  <img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 
