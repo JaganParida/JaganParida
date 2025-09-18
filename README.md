@@ -4,7 +4,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaganparida&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jaganparida&theme=radical&no-frame=false&no-bg=false&margin-w=4&v=1" />
 </p>
 
 
@@ -40,8 +40,8 @@
 
 <!-- 📊 GitHub Stats + Streak -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaganParida&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&v=2" alt="GitHub Stats"/>
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=JaganParida&theme=tokyonight&hide_border=false&v=2" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaganParida&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&v=1" alt="GitHub Stats"/>
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=JaganParida&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak"/>
 </p>
 
 
