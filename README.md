@@ -52,10 +52,11 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaganparida&theme=aura&hide_border=false&include_all_commits=false&count_private=false" height="180em" style="display:inline-block;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=aura&hide_border=false" height="180em" style="display:inline-block;" />
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaganparida&theme=aura&hide_border=false&include_all_commits=false&count_private=false" height="180em" style="flex-shrink: 0;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=aura&hide_border=false" height="180em" style="flex-shrink: 0;" />
 </div>
+
 
 
 
