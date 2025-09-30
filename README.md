@@ -3,13 +3,9 @@
 </p>
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jaganparida&theme=aura&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
-
-
+</p>
 
 ## 💫 About Me
 - 👨‍💻 All my projects are available on [My Portfolio](https://jaganparida.github.io/Portfolio/)  
@@ -52,15 +48,15 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; white-space: nowrap;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaganparida&theme=aura&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=aura&hide_border=false" height="180em" />
-</div>
+</p>
 
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaganparida&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em" />
-</div>
+</p>
 
 
   ### 🔝 Top Contributed Repo
