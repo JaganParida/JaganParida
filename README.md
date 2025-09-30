@@ -52,13 +52,11 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 # 📊 GitHub Stats:
+<p align="center" style="white-space: nowrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaganparida&theme=aura&hide_border=false&include_all_commits=false&count_private=false" height="180em" style="display:inline-block;"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=aura&hide_border=false" height="180em" style="display:inline-block;"/>
+</p>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=jaganparida&theme=aura&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=aura&hide_border=false" height="180em" />
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaganparida&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180em" />
