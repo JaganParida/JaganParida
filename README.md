@@ -45,21 +45,20 @@
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
   ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 
+
 <h2 align="center">📊 GitHub Stats:</h2>
 
-# 📊 GitHub Stats:
-<h2 align="center">📊 GitHub Stats:</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jaganparida&theme=aura&hide_border=false&include_all_commits=false&count_private=false" height="180em" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=aura&hide_border=false" height="180em" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=jaganparida&theme=aura&hide_border=true&include_all_commits=false&count_private=false" height="180em" />
+  </a>
+  <a href="#">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=aura&hide_border=true" height="180em" />
+  </a>
+</p>
+
+
 
 
 
