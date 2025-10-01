@@ -59,8 +59,8 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaganparida&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
     style="width:49%; min-width:200px; display:inline-block;" />
   <img 
-    src="https://github-contributor-stats.vercel.app/api?username=jaganparida&limit=5&theme=dark&combine_all_yearly_contributions=true" 
-    style="width:49%; min-width:200px; display:inline-block;" />
+    src="https://github-contributor-stats.vercel.app/api?username=jaganparida&limit=5&theme=aura&combine_all_yearly_contributions=true&hide_border=true" 
+    style="width:49%; min-width:200px; display:inline-block; bo" />
 </div>
 
 
