@@ -64,6 +64,3 @@
     src="https://github-contributor-stats.vercel.app/api?username=jaganparida&limit=5&theme=aura&combine_all_yearly_contributions=true&hide_border=true" 
     style="width:49%; min-width:200px; display:inline-block; bo" />
 </div>
-
-
-
