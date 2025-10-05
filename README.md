@@ -48,7 +48,6 @@
   ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
