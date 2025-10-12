@@ -7,7 +7,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jaganparida&theme=aura&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
-
 ## 💫 About Me
 - 👨‍💻 All my projects are available on [My Portfolio](https://jaganparida.github.io/Portfolio/)  
 - 💬 Ask me anything tech-related  
