@@ -4,8 +4,11 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaganparida&theme=aura&no-frame=false&no-bg=false&margin-w=4" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=JaganParida&theme=radical&no-frame=false&no-bg=false&margin-w=10&row=1&column=10"
+  />
 </p>
+
 
 ## 💫 About Me
 - 👨‍💻 All my projects are available on [My Portfolio](https://jaganparida.github.io/Portfolio/)  
@@ -50,15 +53,8 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaganparida&theme=aura&hide_border=true&include_all_commits=false&count_private=false" height="170em" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=aura&hide_border=true" height="170em" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=aura&hide_border=true" />
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=jaganparida&limit=5&theme=aura&combine_all_yearly_contributions=true&hide_border=true"
+/>
 </p>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaganparida&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" 
-    style="width:49%; min-width:200px; display:inline-block;" />
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=jaganparida&limit=5&theme=aura&combine_all_yearly_contributions=true&hide_border=true" 
-    style="width:49%; min-width:200px; display:inline-block; bo" />
-</div>
