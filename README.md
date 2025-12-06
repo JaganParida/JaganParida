@@ -5,7 +5,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=JaganParida&theme=radical&no-frame=false&no-bg=false&margin-w=10&row=1&column=10"
+    src="https://github-profile-trophy.vercel.app/?username=JaganParida&theme=radical&no-frame=false&no-bg=false&margin-w=10&row=1&column=9"
   />
 </p>
 
