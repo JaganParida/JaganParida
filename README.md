@@ -55,7 +55,6 @@
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=aura&hide_border=true" width="48%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=jaganparida&limit=5&theme=aura&combine_all_yearly_contributions=true&hide_border=true" width="48%" />
 </p>
 
 
