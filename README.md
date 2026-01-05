@@ -7,7 +7,6 @@
   />
 </p>
 
-
 ## 💫 About Me
 - 👨‍💻 All my projects are available on [My Portfolio](https://jaganparida.github.io/Portfolio/)  
 - 💬 Ask me anything tech-related  
