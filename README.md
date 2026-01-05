@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jagan Parida</h1>
-<p align="center">
-  <img src="gigIMG.gif" width="50%" />
-</p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
