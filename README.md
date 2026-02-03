@@ -2,9 +2,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=JaganParida&theme=radical&no-frame=false&no-bg=false&margin-w=10&row=1&column=9"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaganParida&show_icons=true&theme=radical&rank_icon=github" alt="Jagan's GitHub Stats" />
 </p>
 
 ## 💫 About Me
