@@ -85,6 +85,6 @@ I am a passionate **Full Stack Developer** currently exploring the intersection 
   
   ⭐️ **Feel free to explore my repositories and contribute to any interesting projects!** ⭐️
   
-  <sub>Last Updated: February 2024 | Made with ❤️ and GitHub</sub>
+  <sub>Last Updated: February 2025 | Made with ❤️ and GitHub</sub>
   
 </div>
