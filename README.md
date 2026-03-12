@@ -69,8 +69,8 @@ I am a passionate **Full Stack Developer** currently exploring the intersection 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaganParida&show_icons=true&theme=radical&rank_icon=github&hide_border=true" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jaganparida&theme=radical&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JaganParida&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaganParida&theme=radical&hide_border=true" width="49%" />
 </p>
 
 ---
@@ -79,6 +79,6 @@ I am a passionate **Full Stack Developer** currently exploring the intersection 
   
   ⭐️ **Feel free to explore my repositories and contribute to any interesting projects!** ⭐️
   
-  <sub>Last Updated: February 2025 | Made with ❤️ and GitHub</sub>
+  <sub>Last Updated: March 2026 | Made with ❤️ and GitHub</sub>
   
 </div>
