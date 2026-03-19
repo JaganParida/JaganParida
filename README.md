@@ -4,7 +4,7 @@
 <p align="center">
   <em>Building the future with MERN Stack & Artificial Intelligence</em>
 </p>
-
+ 
 <p align="center">
   <a href="https://linkedin.com/in/jagan-parida04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
