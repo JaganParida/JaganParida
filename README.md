@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagan Parida</h1>
 <h3 align="center">🚀 Aspiring AI & Full Stack Engineer | Open Source Contributor</h3>
- 
+  
 <p align="center">
   <em>Building the future with MERN Stack & Artificial Intelligence</em>
 </p>
