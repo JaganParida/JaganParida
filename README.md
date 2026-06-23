@@ -12,7 +12,7 @@
   <a href="mailto:jagan.parida.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://jagan-parida.vercel.app" target="_blank">
+  <a href="https://jaganparida.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-darkgreen?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
 </p>
